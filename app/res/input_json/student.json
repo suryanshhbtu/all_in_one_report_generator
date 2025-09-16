@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "name": "Suryansh",
+  "age": 24,
+  "parents": {
+    "fatherName": "Mr. Neeraj Srivastava",
+    "motherName": "Mrs. Seema Srivastava"
+  },
+  "subjects": [
+    { "name": "Math", "marks": 95 },
+    { "name": "Physics", "marks": 95 },
+    { "name": "Chemistry", "marks": 95 },
+    { "name": "English", "marks": 90 },
+    { "name": "Informatic Practices", "marks": 95 }
+  ]
+}
